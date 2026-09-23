@@ -19,3 +19,5 @@ git config --local user.email "su correo electrónico registrado en GitHub"
 
 (Recuerden abrir el "Administrador de credenciales" seleccionar "Credenciales de Windows" y
 cualquier credencial relacionado con git o gitHub).
+
+git clone + URL (clona un repositorio en cualquier equipo)
