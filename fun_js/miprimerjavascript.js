@@ -1,0 +1,16 @@
+document.writeln("Hola Mundo directo con javascript, su nombre es "+nombre);
+var nombre = "sxintvelis";
+let bebida = "PepsiCola";
+const PI = 3.1416;
+bebida = "sprite";
+const pi = 2434423;
+const Pi = "Numero PI";
+const pI = "324234";
+console.log("Hola");
+console.log("Hola");
+console.log("Hola");
+console.log("Hola");
+console.log("Hola");
+console.log("Hola");
+console.log("Hola");
+console.log("Hola");
