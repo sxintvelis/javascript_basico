@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace;
+    padding: 30px 16px;
+    text-align: center;
+    background-color: rgb(46, 46, 46);
+}
+
+/* Se supone que font-weight pone en negrita el texto pero no veo gran cambio incluso a 900 */
+h1 {
+    color: rgb(123, 58, 208);
+    font-size: 22px;
+    margin-bottom: 8px;
+    font-weight: bolder;
+}
+
+.enunciado {
+    color:rgb(123, 58, 208);
+    margin-bottom: 20px;
+    font-size: 19px;
+}
+
+input {
+    margin: 5px;
+    padding: 6px 9px;
+    /* Esta vez no uso border-bottom porque si quiero todo el borde */
+    border: 1px solid rgb(123, 58, 208);
+    color:rgb(200, 105, 255);
+    /* este border-radius es que tan ovalado o redondo quiero el borde */
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.caja {
+    /* transparent para hacer el contorno de la caja invisible */
+    background-color: transparent; 
+    color: rgb(159, 81, 192);
+    width: 260px;
+    margin: 20px auto 0;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid rgb(123, 58, 208);
+    line-height:1.6;
+}
