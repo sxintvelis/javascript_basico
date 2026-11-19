@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px 16px;
+    text-align: center;
+    background-color: rgb(139, 248, 212);
+}
+
+h1{
+    color:rgb(0, 116, 58);
+    margin-bottom: 8px;
+    font-size: 40;
+}
+
+.enunciado {
+    color:rgb(0, 82, 84);
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 5px;
+    padding: 6px 9px;
+    border:none;
+    border-bottom: 1px solid rgb(0, 96, 51);
+    color: teal;
+    border-radius: 3px;
+}
+
+.caja {
+    background-color: rgb(0, 255, 157);
+    color: rgb(0, 89, 61);
+    width: 260px;
+    margin: 20px auto 0;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid rgb(0, 63, 30);
+    border-radius: 5px;
+    line-height: 1.6;
+}
